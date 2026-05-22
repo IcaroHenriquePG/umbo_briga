@@ -1,4 +1,3 @@
-# umbo_briga
 <p align="center">
   <img src="assets/sprites/image/umbobriga.png" alt="logo" width="280" />
   <br />
