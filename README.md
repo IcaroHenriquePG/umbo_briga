@@ -8,4 +8,9 @@
   <img src="https://img.shields.io/badge/Engine-Pygame-yellowgreen?logo=gaming&logoColor=white" />
   <img src="https://img.shields.io/badge/Difficulty-Easy-brightgreen?logo=nintendo&logoColor=white" />
   <img src="https://img.shields.io/badge/Controls-Gamepad_Support-0078D4?logo=xbox&logoColor=white" />
-</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+Umbó briga é um jogo de luta focado na diversão e na fluídez. Ainda em estágio de desenvolvimento
