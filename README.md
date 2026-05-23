@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sprites/image/umbobriga.png" alt="logo" width="280" />
+  <img src="assets/image/umbobriga.png" alt="logo" width="280" />
   <br />
   <a href="https://github.com/cauaenzo/FAST-BACK/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
   <img src="https://img.shields.io/badge/version-1.0.0-blueviolet?labelColor=blueviolet&style=flat" />
