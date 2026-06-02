@@ -3,6 +3,7 @@ from constantes import *
 from lutador import Lutador
 from interface import desenhar_hud
 from input_manager import InputHandler
+from menu import MenuInicial
 
 # --- INICIALIZAÇÃO ---
 pygame.init()
@@ -52,6 +53,11 @@ p2 = Lutador(0.2, VERMELHO, "P2", teclas_p2,
 
 p1.ajustar(L, A); p2.ajustar(L, A)
 clock, rodando, ativo = pygame.time.Clock(), True, True
+
+# --- MENU INICIAL ---
+menu = MenuInicial(L, A)
+menu.mostrar(tela)
+# --------------------
 
 # --- LOOP PRINCIPAL ---
 while rodando:
